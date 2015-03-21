@@ -1,5 +1,3 @@
-@@ -0,0 +1,66 @@
-
 public class Student extends User 
 {
    private String Course;
