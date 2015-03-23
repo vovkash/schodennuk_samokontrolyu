@@ -1,7 +1,7 @@
 public class Moderator extends User 
 {
-   private int StartDate;
-   private int Charter;
+   private String StartDate;
+   private String Charter;
    protected String LastActivity;
    
 
