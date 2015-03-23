@@ -16,6 +16,6 @@
 
 UML діаграма:
 
-![uml2](https://cloud.githubusercontent.com/assets/10174677/6766436/3e265d5a-d00f-11e4-8250-c19cc53d7a08.png)
+![uml3](https://cloud.githubusercontent.com/assets/10174677/6791095/358e8184-d1b5-11e4-92ca-4c616ae06f81.png)
 
 Більшість стандартних селекторів та модифікаторів не вказані для зменшення розміру та кращого "читання" діаграми.
