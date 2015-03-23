@@ -1,6 +1,6 @@
 public class DailyRecordWoutLesson
 {
-   private string Date;
+   protected string Date;
    private int HeartRate;
    public Student theStudent;
    
