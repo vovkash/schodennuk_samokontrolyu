@@ -1,4 +1,4 @@
-public class Moderator extends User 
+public class Moderator
 {
    private String StartDate;
    private String Charter;
