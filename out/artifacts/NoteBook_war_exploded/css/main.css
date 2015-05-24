@@ -1,0 +1,100 @@
+
+
+html,body{
+    background-color: beige;
+
+}
+
+
+.container{
+
+
+    width: 100%;
+    height: 100%;
+
+
+}
+
+
+.menu{
+
+    width: auto;
+    display: table;
+    height: 100px;
+    margin:0 auto;
+
+    border-radius: 15px;
+    margin-bottom: 10px;
+}
+
+.content{
+    border:2px solid gray;
+    width: 70%;
+    display: table;
+    height:100%;
+    margin:0 auto;
+    background-color: white;
+    border-radius: 15px;
+    padding: 50px;
+}
+
+p{
+    font-size: large;
+    font-family:Helvetica;
+}
+
+.footer{
+
+    width: 100%;
+    height:50px;
+    text-align: center;
+    margin:0 auto;
+    margin-top: 20px;
+
+}
+
+h1,h2{
+    text-align: center;
+}
+
+.button{
+    width: 100px;
+    height: 35px;
+    float:left;
+    border:2px solid black;
+    text-align: center;
+    line-height: 35px;
+    border-radius: 8px;
+    margin: 5px;
+    font-size: large;
+    color:black;
+    background-color: cornsilk;
+}
+
+
+.standartform{
+
+    width: auto;
+    display:table;
+    margin:10px auto;
+
+
+}
+
+#teacherlist{
+    margin:0 auto;
+    border:2px solid gray;
+    width: 500px;
+
+}
+
+#mpimg{
+    margin: 10px auto;
+    display: block;
+}
+
+#stview{
+    width: 70%;
+    display:table;
+    margin:10px auto;
+}

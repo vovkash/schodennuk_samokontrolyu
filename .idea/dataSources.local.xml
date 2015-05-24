@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="MySQL - NoteBook@localhost" uuid="e3acbf93-088e-422e-bdb1-c536845683b1">
+      <secret-storage>master_key</secret-storage>
+      <user-name>root</user-name>
+      <schema-pattern>notebook.*</schema-pattern>
+      <default-schemas>notebook.*</default-schemas>
+    </data-source>
+  </component>
+</project>
